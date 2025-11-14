@@ -3,5 +3,10 @@
     "nombre": "Alex",
     "edad": "18",
     "ciudad": "Jalisco"
+  },
+  {
+    "nombre": "Rafael",
+    "edad": "19",
+    "ciudad": "CDMX"
   }
 ]
